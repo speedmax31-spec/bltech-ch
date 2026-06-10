@@ -4,7 +4,7 @@
     {
       "name": "pms",
       "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
-      "runtimeArgs": ["test1/server.js", "--no-open"],
+      "runtimeArgs": ["server.js", "--no-open"],
       "port": 8765
     }
   ]

@@ -1,7 +1,7 @@
 # 개인 데이터 (GitHub에 올리지 않음)
-test1/data.json
-test1/data.json.tmp
-test1/backups/
+data.json
+data.json.tmp
+backups/
 
 # 클로드 로컬 설정 (개인 머신 전용)
 .claude/settings.local.json
